@@ -6,8 +6,8 @@
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
+1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
+2. `cd project-name`
 3. `npm install`
 
 ## Code Quality Checks
