@@ -14,7 +14,10 @@ about: A template PR for contributing to this project
 <!-- general checks -->
 
 - [ ] All CI checks pass
-- [ ] the branch is up to date with `main`/`master`
+- [ ] The branch is up to date with `main`/`master`
+- [ ] File and Folder names match the repository convention
+  - [ ] all lower-case letters
+  - [ ] kebab-case
 
 ## Markdown
 
