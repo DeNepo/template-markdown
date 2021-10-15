@@ -14,6 +14,8 @@
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
+- `npm run lint:ls`: Will lint the folder and file names in this repository to
+  make sure they match the repo conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository and
   let you know if there are any style mistakes to fix.
 - `npm run spell-check`: Goes through all the files in this repository looking
