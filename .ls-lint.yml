@@ -1,6 +1,6 @@
 ls:
   .dir: kebab-case
-  .md: regex:[a-z0-9A-Z\-]+
+  .md: kebab-case | regex:[0-9A-Z\-]+
 
 ignore:
   - .git
