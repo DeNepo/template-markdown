@@ -7,12 +7,14 @@ on:
     branches: [master, main]
 
 jobs:
-  lint-md:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - run: npm install
+
       - run: npm run lint:ls
+      - run: npm run format:check
       - run: npm run lint:md
