@@ -13,7 +13,7 @@ assignees: ""
   - labels: anything that will make this easier to filter
 -->
 
-#### Description
+## Description
 
 A clear and concise description of what the issue is about.
 
@@ -26,12 +26,11 @@ A clear and concise description of what the issue is about.
         column
 - Setup: local
   - [ ] pulled the most recent code from `main`/`master`
-  - [ ] created a new branch for my feature
-- Steps to complete the task (include specific steps in the order they need to
-  be done in):
+  - [ ] created a new `feat-branch-name` branch for my feature
+- Steps to complete the task:
   <!-- You can add the required steps and details to complete the task -->
-  - [ ] step 1
-  - [ ] step 2
+  - [ ] step 1 details
+  - [ ] step 2 details
 - Before pushing my branch:
   - [ ] pulled the most recent code from `main`/`master` to my feature branch
   - [ ] ran code quality checks
