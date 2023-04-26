@@ -11,7 +11,7 @@
 
 ## Description
 
-A clear and concise description of what the Pull Request is about.
+<!-- A clear and concise description of what the Pull Request is about. -->
 
 ## Checklists
 
