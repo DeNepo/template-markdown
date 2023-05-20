@@ -6,6 +6,7 @@
   - connect it to a milestone (if necessary)
   - link it with an issue (if necessary)
 -->
+<!-- markdownlint-disable-file -->
 
 <!-- describe your PR -->
 
