@@ -1,7 +1,7 @@
 {
   "name": "template-markdown",
   "version": "1.0.0",
-  "description": "Starter repository for markdown projects at HYF Belgium",
+  "description": "Starter repository for markdown projects at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
@@ -9,7 +9,7 @@
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --config ./.markdownlint.jsonc --fix ./ "
   },
-  "author": "HYF Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",
