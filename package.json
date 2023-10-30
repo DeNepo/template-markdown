@@ -1,20 +1,20 @@
 {
   "name": "template-markdown",
   "version": "1.0.0",
-  "description": "starter repository for markdown projects at HYF Belgium",
+  "description": "Starter repository for markdown projects at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell './**'",
+    "spell-check": "cspell \"./**\"",
     "lint:ls": "ls-lint",
-    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
+    "lint:md": "markdownlint --config ./.markdownlint.jsonc --fix ./ "
   },
-  "author": "HYF Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
-    "cspell": "^5.9.0",
-    "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2",
-    "@ls-lint/ls-lint": "^1.10.0"
+    "@ls-lint/ls-lint": "^2.0.0",
+    "cspell": "^6.31.1",
+    "markdownlint-cli": "^0.34.0",
+    "prettier": "^2.8.8"
   }
 }
