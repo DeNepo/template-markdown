@@ -1,22 +1,25 @@
-# (project name)
+# Meet The Team
 
-<!-- describe your project -->
+We are students in the Post Bachelor Coding Bootcamp, seeking to expand our
+knowledge and develop our skills in the software engineering
 
 ## Getting Started
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
+1. `git clone [markDownProject](https://github.com/Zakey-Pilot/markdown-intros)`
 2. `cd project-name`
 3. `npm install`
 
-## Code Quality Checks
+## Code Quality Scripts
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
+- `npm run format-check`: Makes sure all the code in this repository is
+  well-formatted (looks good).
+- `npm run lint-ls`: Will lint the folder and file names in this repository to
   make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
+- `npm run lint-md`: Will lint all of the Markdown files in this repository and
   let you know if there are any style mistakes to fix.
 - `npm run spell-check`: Goes through all the files in this repository looking
   for words it doesn't recognize. Just because it says something is a mistake
