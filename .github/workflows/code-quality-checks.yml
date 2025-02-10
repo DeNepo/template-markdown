@@ -16,6 +16,7 @@ jobs:
       - run: npm install
       - run: npm audit fix
 
+      - run: npm run format
       - run: npm run format-check  # Change format:check -> format-check
       - run: npm run spell-check
       - run: npm run lint-ls        # Change lint:ls -> lint-ls
