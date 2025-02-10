@@ -29,17 +29,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day   | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ----- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Ayman | 14 - 18 | 8 - 12  |  14 - 20  | 13 - 20  | 00 - 00 | 12 - 20  | 12 - 18 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Ayman: _6h_;
 
 ## Asking for Help
 
