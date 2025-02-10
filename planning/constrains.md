@@ -14,7 +14,7 @@ Some boundaries around our project.
 - Difficulty in arranging an appointment with each other at the same time
 
 <!--
-  constraints that come from within your team, and you have no control over. 
+  constraints that come from within your team, and you have no control over.
   they may include:
   - each of your individual skill levels
   - amount of time available to work on the project
