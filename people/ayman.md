@@ -8,7 +8,7 @@ strong focus on both front-end and back-end development.
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 🔹 Frontend: HTML, CSS, JavaScript, React.
 
