@@ -10,7 +10,9 @@
     "Alnajjar",
     "Zakat",
     "Bootcamp",
-    "Shuqair"
+    "Shuqair",
+    "Rahaf",
+    "Zourob"
   ],
   "ignorePaths": [
     "node_modules/**",
