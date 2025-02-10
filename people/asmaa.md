@@ -1,6 +1,9 @@
 # 🌟 Asmaa Alnajjar – Engineer, Developer & Creative Mind
 
-I am a Computer and Telecommunications Engineer with a passion for web development, UI/UX design, and technology-driven solutions. My expertise lies in creating efficient, user-friendly, and visually appealing websites using modern frameworks and best practices.
+I am a Computer and Telecommunications Engineer with a passion for web
+development, UI/UX design, and technology-driven solutions. My expertise lies in
+creating efficient, user-friendly, and visually appealing websites using modern
+frameworks and best practices.
 
 ## 🛠️ Technical Skills
 
@@ -12,12 +15,17 @@ I am a Computer and Telecommunications Engineer with a passion for web developme
 
 ## 🤝 Soft Skills
 
-🎯 **Attention to Detail:** Committed to delivering high-quality work with precision and accuracy.
+🎯 **Attention to Detail:** Committed to delivering high-quality work with
+precision and accuracy.
 
-📢 **Communication & Teaching:** Breaking down complex topics for easier understanding.
+📢 **Communication & Teaching:** Breaking down complex topics for easier
+understanding.
 
-🌟 **Empathy & Team Collaboration:** Committed to building strong professional relationships and supporting team success.
+🌟 **Empathy & Team Collaboration:** Committed to building strong professional
+relationships and supporting team success.
 
 ## Previous Work
 
-**[CryptoZakat](https://www.cryptozakat.io):** Designed and developed a responsive website using Next.js, Figma, and integrated it with RESTful APIs to ensure seamless data flow and functionality.
+**[CryptoZakat](https://www.cryptozakat.io):** Designed and developed a
+responsive website using Next.js, Figma, and integrated it with RESTful APIs to
+ensure seamless data flow and functionality.

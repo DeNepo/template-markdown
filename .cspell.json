@@ -7,7 +7,10 @@
     "Afnan",
     "Fadi",
     "Asmaa",
-    "Alnajjar"
+    "Alnajjar",
+    "Zakat",
+    "Bootcamp",
+    "Shuqair"
   ],
   "ignorePaths": [
     "node_modules/**",
