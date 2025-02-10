@@ -37,7 +37,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - name: _5h_; extra comments?
-- name: _6h_;
+- Rahaf: _4h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
