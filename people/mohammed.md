@@ -1,51 +1,26 @@
-# Meet The Team
+# Hi 👋, I'm Mohammed Abu Shuqair
 
-We are students in the Post Bachelor Coding Bootcamp, seeking to expand our
-knowledge and develop our skills in the software engineering
+A Humble Mobile developer from Palestinian
 
-## Getting Started
+## Professional Summary
 
-<!-- a guide to using this repository -->
+Skilled Flutter Developer with over 2 years of experience in designing,
+developing, and deploying mobile applications for both iOS and Android
+platforms. Strong foundation in software engineering principles, object-oriented
+programming, and design patterns. Proven track record of delivering
+high-quality, efficient, and scalable mobile solutions with a focus on enhancing
+user experience. Proficient in state management, RESTful APIs, and agile
+development methodologies. Seeking to contribute my expertise to a
+forward-thinking tech company focused on building innovative mobile
+applications.
 
-1. `git clone [markDownProject](https://github.com/Zakey-Pilot/markdown-intros)`
-2. `cd project-name`
-3. `npm install`
+- 🌱 I’m currently learning **Markdown**
 
-## Code Quality Scripts
+- 💬 Ask me about **Flutter,Dart,OOP,SOLD**
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run format-check`: Makes sure all the code in this repository is
-  well-formatted (looks good).
-- `npm run lint-ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint-md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+- 📫 How to reach me **<eng.mohammed.shuqair@gmail.com>**
 
-## Continuous Integration (CI)
+- 📄 Know about my experiences
+  [cv on google docs](https://docs.google.com/document/d/1b3wU07atbRME8LfNhLyRsinMGkfSYMgzNsdYXSXi-p8/edit?tab=t.0)
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+- ⚡ Fun fact **I am a Real Madrid fan**
