@@ -4,10 +4,10 @@
   "description": "Starter repository for markdown projects at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
-    "format:check": "prettier --check ./",
+    "format-check": "prettier --check ./",
     "spell-check": "cspell \"./**\"",
-    "lint:ls": "ls-lint",
-    "lint:md": "markdownlint --config ./.markdownlint.jsonc --fix ./ "
+    "lint-ls": "ls-lint",
+    "lint-md": "markdownlint --config ./.markdownlint.jsonc --fix ./ "
   },
   "author": "DeNepo",
   "license": "MIT",
