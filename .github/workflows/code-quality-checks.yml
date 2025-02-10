@@ -17,7 +17,7 @@ jobs:
       - run: npm audit fix
 
       - run: npm run format
-      - run: npm run format-check  # Change format:check -> format-check
+      - run: npm run format-check # Change format:check -> format-check
       - run: npm run spell-check
-      - run: npm run lint-ls        # Change lint:ls -> lint-ls
-      - run: npm run lint-md   
+      - run: npm run lint-ls # Change lint:ls -> lint-ls
+      - run: npm run lint-md
